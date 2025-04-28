@@ -1,0 +1,12 @@
+.plainCircle {
+-fx-fill:white;
+-fx-stroke: black;
+}
+#green{
+-fx-fill: green;
+-fx-stroke: green;
+}
+#red{
+-fx-fill: red;
+-fx-stroke: red;
+}
